@@ -20,10 +20,11 @@ Create dashboard account manually and reuse it for all of them.
 
 ## Part 1
 
-Create UI test for the following pages:
+Create UI test for the following testcase:
 
-1. Dashboard Sign in page
-2. Fetch and Store Dashboard Account test keys in a cypress fixtures file
+Url : http://automationpractice.com/index.php
+
+Select any two women dresses from List view. Add them to cart and proceed to checkout and validate that the total price is equal to the price of dresses added.
 
 ## Part 2
 
@@ -38,11 +39,6 @@ You should use the brand Id when creating a new location and add mids.
 ## Part 3
 
 Please provide a [Read.me](http://read.me) file explaining your repo structure , your test approach and how to run the tests.
-
-## Bonus part - UI (optional)
-
-1. Create an offer
-2. Link the location to the offer
 
 ### Additional information to the interview
 
