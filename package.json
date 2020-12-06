@@ -1,0 +1,26 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "This challenge focuses on RESTful api testing as well as User Interface testing. It consists of 2 parts, plus an optional task.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FidelLimited/qa-techtest-sarthak.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FidelLimited/qa-techtest-sarthak/issues"
+  },
+  "homepage": "https://github.com/FidelLimited/qa-techtest-sarthak#readme",
+  "dependencies": {
+    "cypress": "^6.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
+
+}
