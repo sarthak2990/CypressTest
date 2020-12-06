@@ -16,7 +16,7 @@ function makeid(length) {
     return result;
 }
 
-describe('Verify Checkout Price', () => {
+describe('Verify Location endpoint', () => {
     //  const {userCount} = require ('cypress/element/checkoutpage')
     // cy.ap
     let header = {

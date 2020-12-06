@@ -14,7 +14,7 @@ function makeid(length) {
     return result;
 }
 
-describe('Verify Checkout Price', () => {
+describe('Verify Brand Endpoint', () => {
     //  const {userCount} = require ('cypress/element/checkoutpage')
     // cy.ap
     let header = {
@@ -63,7 +63,7 @@ describe('Verify Checkout Price', () => {
     });
 
     //TODO Commenting these tests for duplicate and delete as currently i am not sure how it will work but i believe they should be
-    
+
 /*    it('Create Duplictae Brand Post Request', function () {
 
         cy.request({
